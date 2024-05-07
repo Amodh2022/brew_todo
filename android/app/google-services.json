@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340477293556",
+    "project_id": "brew-todo",
+    "storage_bucket": "brew-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340477293556:android:2d453cbc4e265cf1f9ffa1",
+        "android_client_info": {
+          "package_name": "com.example.brew_todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdMw8Uncf6FlUvWaUMDytXdy2kr81Bzmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
